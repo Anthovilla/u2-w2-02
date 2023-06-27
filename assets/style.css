@@ -2,10 +2,13 @@
     background-color: #6e57f3ba ;
 }
 
-article {
-    margin: 100px;
+.epicMid {
+    margin: 100px 50px 0px;
 }
 
 #btnTop {
     background-color: #006cff73;
+}
+article {
+    margin: 40px 2px 10px;
 }
